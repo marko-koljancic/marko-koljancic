@@ -1,11 +1,6 @@
+**Product Manager · Delivery Manager · Architect & Technologist**
 
-
-# Marko Koljančić
-
-**Product Strategist · Delivery Manager · Architect & Technologist**
-
-I operate at the intersection of strategy, technology, and execution  
-taking products from zero to scale.
+I operate at the intersection of strategy, technology, and execution taking products from zero to scale.
 
 [koljam.com](https://koljam.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marko-koljancic) &nbsp;·&nbsp; [X / Twitter](https://twitter.com/marko_koljancic) &nbsp;·&nbsp; [YouTube](https://youtube.com/c/MarkoKoljancic) &nbsp;·&nbsp; [Vimeo](https://vimeo.com/koljam)
 
