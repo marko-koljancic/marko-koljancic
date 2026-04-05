@@ -6,7 +6,7 @@ I operate at the intersection of strategy, technology, and execution — taking 
 
 ## What I typically do
 
-**Product Management and Strategy** — Full lifecycle ownership from discovery to roadmap to go-to-market. Scaled active user bases from 2,000 to 200,000+. PMI PMP, PBA, ACP, ITIL, SAFe certified professional among others.
+**Product Management and Strategy** — Full lifecycle ownership from discovery to roadmap to go-to-market. Scaled active user bases from 2,000 to 200,000+. PMI-PMP, PMI-PBA, PMI-ACP, ITIL, SAFe certified professional among others.
 
 **Program and Service Delivery** — Cross-functional orchestration bridging engineering and business. P&L responsibility, SLAs, client management from startups to enterprises.
 
@@ -30,7 +30,5 @@ What keeps me awake is fueling my passion in digital automation, computer graphi
 **[Solarxy](https://github.com/marko-koljancic/solarxy)** — A passion project of mine. A lightweight, cross-platform, high-performance computer graphics 3D model viewer and validator built with Rust and wgpu. Inspect 3D models in a real-time graphical viewer or analyze them from the terminal with built-in validation checks.
 
 ![Solarxy view modes](docs/img/solarxy-doc-view-modes.png)
-
----
 
 <sub>Full story at <a href="https://koljam.com">koljam.com</a></sub>
