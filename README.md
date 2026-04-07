@@ -24,7 +24,7 @@ What keeps me awake is fueling my passion in digital automation, computer graphi
 
 ## What I'm lately focused on
 
-**[Solarxy](https://github.com/marko-koljancic/solarxy)** — A passion project of mine. A lightweight, cross-platform, high-performance computer graphics 3D model viewer and validator built with Rust and wgpu. Inspect 3D models in a real-time graphical viewer or analyze them from the terminal with built-in validation checks.
+**[Solarxy](https://github.com/marko-koljancic/solarxy)** - A passion project of mine. A lightweight, cross-platform, high-performance computer graphics 3D model viewer and validator built with Rust and wgpu. Inspect 3D models in a real-time graphical viewer or analyze them from the terminal with built-in validation checks.
 
 ![Solarxy view modes](docs/img/solarxy-doc-view-modes.png)
 
