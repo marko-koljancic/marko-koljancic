@@ -6,16 +6,13 @@ I operate at the intersection of strategy, technology, and execution — taking 
 
 ## What I typically do
 
-**Product Management and Strategy** - Full lifecycle ownership from discovery to roadmap to go-to-market. Scaled active user bases from 2,000 to 200,000+. PMI-PMP, PMI-PBA, PMI-ACP, ITIL, SAFe certified professional among others.
+**Product Management and Strategy** - Full lifecycle ownership from discovery to roadmap to go-to-market.
 
-**Program and Service Delivery** - Cross-functional orchestration bridging engineering and business. P&L responsibility, SLAs, client management from startups to enterprises.
+**Program and Service Delivery** - Cross-functional orchestration bridging engineering and business.
 
-**AEC Digital Transformation** - Deep domain expertise in BIM strategy, digital adoption, and workflow optimization. Autodesk Certified Instructor and Professional, certified over 13 times in:
-  - Autodesk Revit
-  - Autodesk 3ds Max
-  - Autodesk AutoCAD
+**AEC Digital Transformation** - Deep domain expertise in BIM strategy, digital adoption, and workflow optimization.
 
-**Technology Strategy** - Former startup Digital Technology Manager and CTO. Built custom development units and set technical foundations for scalable growth, including web-based computational platforms and Revit API automation.
+**Technology Strategy** - Former startup Digital Technology Manager and CTO. Built custom development units and set technical foundations for scalable growth, including web-based computational platforms and BIM automation in AEC/O sector.
 
 ## What I'm currently exploring
 
