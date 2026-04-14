@@ -12,7 +12,7 @@ I operate at the intersection of strategy, technology, and execution, taking pro
 
 **AEC Digital Transformation** — Deep domain expertise in BIM strategy, digital adoption, and workflow optimization. Autodesk Certified Instructor and Professional across Revit, 3ds Max, and AutoCAD. Trained 800+ engineers in BIM and 3D visualization.
 
-**Technology Strategy** — Former startup leader. Built custom development units and set technical foundations for scalable growth, including web-based computational platforms and Revit API automation. Crafted and led many products end to end from inception to 
+**Technology Strategy** — Former startup leader. Built custom development units and set technical foundations for scalable growth, including web-based computational platforms and Revit API automation. Crafted and led many products end to end from inception to adoption.
 
 ## What I build after hours
 
