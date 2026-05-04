@@ -1,32 +1,42 @@
-**Product Manager · Delivery Manager · Architect · Technologist**
+**Senior Product & Delivery Manager · Building AI-Enabled Products**
 
-I operate at the intersection of strategy, technology, and execution, taking products from zero to scale.
+Building products end-to-end. Discovery, scoping, building, shipping, and the work in between.
 
-[koljam.com](https://koljam.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marko-koljancic) &nbsp;·&nbsp; [X / Twitter](https://twitter.com/marko_koljancic) &nbsp;·&nbsp; [YouTube](https://youtube.com/c/MarkoKoljancic) &nbsp;·&nbsp; [Vimeo](https://vimeo.com/koljam)
+[koljam.com](https://koljam.com) · [LinkedIn](https://linkedin.com/in/marko-koljancic) · [X / Twitter](https://twitter.com/marko_koljancic) · [YouTube](https://youtube.com/c/MarkoKoljancic) · [Vimeo](https://vimeo.com/koljam)
 
-## What I do
+## Now
 
-**Product Management and Strategy** — Full lifecycle ownership from discovery to roadmap to go-to-market. Scaled active user bases from 2,000 to 200,000+. PMI-PMP, PMI-PBA, PMI-ACP, ITIL, SAFe certified.
+Leading delivery of a multi-agent RAG platform for a Fortune 100 marketing organization. Wearing product, business analyst, project, and delivery hats on the same engagement. Greenfield AI products tend to need that.
 
-**Program and Service Delivery** — Cross-functional orchestration bridging engineering and business. P&L responsibility, SLAs, client management from startups to enterprises.
+Previously took an AEC SaaS portfolio to 200,000+ active users across 6,000+ companies as startup CTO. Before that, founded a regional Autodesk Training & Certification Center and trained 800+ engineers.
 
-**AEC Digital Transformation** — Deep domain expertise in BIM strategy, digital adoption, and workflow optimization. Autodesk Certified Instructor and Professional across Revit, 3ds Max, and AutoCAD. Trained 800+ engineers in BIM and 3D visualization.
-
-**Technology Strategy** — Former startup leader. Built custom development units and set technical foundations for scalable growth, including web-based computational platforms and Revit API automation. Crafted and led many products end to end from inception to adoption.
+PMP, PMI-PBA, PMI-ACP, PSM I/II, PSPO I/II, PSK I, SAFe 6, ITIL 4. Useful when they need to be, invisible otherwise.
 
 ## What I build after hours
 
-**[Solarxy](https://github.com/marko-koljancic/solarxy)** — A cross-platform 3D model viewer and visual debugger built in Rust with wgpu. PBR rendering, split viewports, inspection overlays, terminal-based validation. Single binary, under a few MB, runs on macOS, Linux, and Windows. MIT licensed.
+**[Solarxy](https://github.com/marko-koljancic/solarxy)** — a cross-platform 3D model viewer and visual debugger, written in Rust with wgpu. One person, side project, ships as a single binary on macOS, Linux, and Windows. MIT licensed.
 
-I find it valuable to switch places from time to time. Be on every side of the product development spectrum instead of just one. Define specs, shape roadmaps, and also write the code. Implement, test, deploy, break things, fix them, ship.
+[![Solarxy view modes](https://github.com/marko-koljancic/marko-koljancic/raw/main/docs/img/solarxy.gif)](https://github.com/marko-koljancic/solarxy)
 
-[![Solarxy view modes](docs/img/solarxy.gif)](https://github.com/marko-koljancic/solarxy)
+I find it useful to switch sides of the table from time to time. Define specs, shape roadmaps, and also write the code. Implement, test, deploy, break things, fix them, ship. The discipline of building keeps the rest of the work honest.
+
+**[minimystx](https://github.com/marko-koljancic/minimystx)** — a browser-based parametric design tool in TypeScript. Smaller in scope, exploring whether traditionally desktop-bound CAD workflows can live in a tab.
 
 ## Interests
 
 - OpenBIM and the impact of moving away from proprietary ecosystems
+- Multi-agent systems, RAG, and AI products that ship to non-technical end users
 - Parametric modeling in BIM, product development, and computer graphics
 - Rust, wgpu, and the WebGPU ecosystem
 - Node-based UIs (still a believer)
 
-<sub><a href="https://koljam.com">koljam.com</a></sub>
+---
+
+<p align="center">
+  <a href="https://github.com/marko-koljancic">
+    <img src="https://github-readme-stats.vercel.app/api?username=marko-koljancic&show_icons=true&hide_border=true&hide_title=true&count_private=true&hide=issues&theme=default&icon_color=000000&title_color=000000&text_color=4a4640" alt="GitHub stats" height="120" />
+  </a>
+  <a href="https://github.com/marko-koljancic">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marko-koljancic&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=4a4640&hide=html,css" alt="Top languages" height="120" />
+  </a>
+</p>
