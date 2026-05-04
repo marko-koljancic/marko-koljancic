@@ -30,7 +30,6 @@ I find it useful to switch sides of the table from time to time. Define specs, s
 - Rust, wgpu, and the WebGPU ecosystem
 - Node-based UIs (still a believer)
 
----
 
 <p align="center">
   <a href="https://github.com/marko-koljancic">
