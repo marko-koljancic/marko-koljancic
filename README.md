@@ -54,12 +54,7 @@ PMP, PMI-PBA, PMI-ACP, PSM I/II, PSPO I/II, PSK I, SAFe 6, ITIL 4, plus Anthropi
 - Rust, wgpu, and the WebGPU ecosystem
 - Node-based UIs (still a believer)
 
-<p align="center">
-  <a href="https://github.com/marko-koljancic">
-    <img src="https://github-readme-stats.vercel.app/api?username=marko-koljancic&show_icons=true&hide_border=true&hide_title=true&count_private=true&hide=issues&bg_color=00000000&icon_color=d4623c&title_color=d4623c&text_color=808080" alt="GitHub stats" height="150" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/marko-koljancic">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marko-koljancic&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=d4623c&text_color=808080&hide=html,css" alt="Top languages" height="150" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/marko-koljancic/marko-koljancic/raw/main/docs/img/langs-dark.svg">
+  <img alt="Most used languages across public repositories: Rust 64 percent, TypeScript 29 percent, with WGSL and C sharp in the tail." src="https://github.com/marko-koljancic/marko-koljancic/raw/main/docs/img/langs-light.svg" width="100%">
+</picture>
